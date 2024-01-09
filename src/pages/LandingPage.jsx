@@ -8,7 +8,7 @@ export default function LandingPage() {
           <p className="text-purple-800 ">Seamless experience</p>
           <div className="flex flex-col justify-center items-center mt-2">
             <h1 className="text-3xl sm:text-6xl items-center font-semibold text-center sm:w-2/3">
-              Unleashing the Next Generation of Card Solutions
+              Unleashings the Next Generation of Card Solutions
             </h1>
           </div>
           <p className="mt-6 sm:w-1/2 text-gray-700 text-center p-3">
